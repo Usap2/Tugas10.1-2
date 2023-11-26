@@ -1,0 +1,13 @@
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe.config
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\PerpustakaanAppMVC4.6.1.pdb
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.dll
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\bin\Debug\System.Data.SQLite.xml
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.AssemblyReference.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.SuggestedBindingRedirects.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4._6._1.Properties.Resources.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.GenerateResource.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CoreCompileInputs.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.csproj.CopyComplete
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\10-20231122T064115Z-001\10\PerpustakaanAppMVC4.6.1\PerpustakaanAppMVC4.6.1\obj\Debug\PerpustakaanAppMVC4.6.1.pdb
